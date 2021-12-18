@@ -1,0 +1,10 @@
+{
+    "diagnostics": {
+        "skipSupport": "withSupport",
+        "ordinaryAppSupport": false,
+            "DeprecatedMethods8317": false,
+            "UsingObjectNotAvailableUnix": false
+            }
+        }
+    }
+}
