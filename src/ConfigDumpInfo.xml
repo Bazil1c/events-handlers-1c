@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="CommonModule.мк_ОбщегоНазначения" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9" configVersion="785bf2a13b87a716f0842534a9d9a9096fe3a008"/>
-		<Metadata name="CommonModule.мк_ОбщегоНазначения.Module" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9.0" configVersion="50ba4d970c9c36b79a4bbe24838753177c532ed9"/>
+		<Metadata name="CommonModule.мк_ОбщегоНазначения" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9" configVersion="a6c4d921d47a6ce34ebeca9d0f7bd63bdab26812"/>
+		<Metadata name="CommonModule.мк_ОбщегоНазначения.Module" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9.0" configVersion="8939259874e52c53a17636dce4c1c8ab6d92b835"/>
 		<Metadata name="CommonModule.мк_СобытияДокументов" id="be0cea91-99fc-4cd1-b272-0273b2165bbd" configVersion="e4a7268f2bce49fc2bd36ecea988a433d910e67d"/>
-		<Metadata name="CommonModule.мк_СобытияДокументов.Module" id="be0cea91-99fc-4cd1-b272-0273b2165bbd.0" configVersion="ceea104d6aa733edefc8ad13ec3cbcf6df7d649a"/>
+		<Metadata name="CommonModule.мк_СобытияДокументов.Module" id="be0cea91-99fc-4cd1-b272-0273b2165bbd.0" configVersion="f3739f575a5d812a245ad16e6adf81257be29e9f"/>
 		<Metadata name="CommonModule.мк_СобытияСправочников" id="ce7844eb-f3ff-4199-9a0d-dfc06a8638f4" configVersion="f9f850ac0b69bdfc6c63d2929a8818188b2549a3"/>
-		<Metadata name="CommonModule.мк_СобытияСправочников.Module" id="ce7844eb-f3ff-4199-9a0d-dfc06a8638f4.0" configVersion="3bd9ae3949d25f9d994a9a99b3c065dbe5079eda"/>
+		<Metadata name="CommonModule.мк_СобытияСправочников.Module" id="ce7844eb-f3ff-4199-9a0d-dfc06a8638f4.0" configVersion="ed73d6b8b4f42cb9b70483308c94b5ed766aa855"/>
 		<Metadata name="CommonModule.мк_СобытияФорм" id="a95f2fbf-f1db-4d98-bec0-e15f8d43108e" configVersion="1daf5131e06ad56a1266874d6303a1bc82ab0b4e"/>
 		<Metadata name="CommonModule.мк_СобытияФорм.Module" id="a95f2fbf-f1db-4d98-bec0-e15f8d43108e.0" configVersion="394598102445208dea07c685000a77cbae6dcd20"/>
 		<Metadata name="CommonModule.мк_Справочник_Номенклатура" id="662c5bb8-0834-4e51-8b12-18bbf9a85e4b" configVersion="8032af47d08b01ceaff655a32a87744f6e950483"/>
