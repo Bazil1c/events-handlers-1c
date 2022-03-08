@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
 		<Metadata name="CommonModule.мк_ОбщегоНазначения" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9" configVersion="a6c4d921d47a6ce34ebeca9d0f7bd63bdab26812"/>
 		<Metadata name="CommonModule.мк_ОбщегоНазначения.Module" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9.0" configVersion="8939259874e52c53a17636dce4c1c8ab6d92b835"/>
 		<Metadata name="CommonModule.мк_СобытияДокументов" id="be0cea91-99fc-4cd1-b272-0273b2165bbd" configVersion="e4a7268f2bce49fc2bd36ecea988a433d910e67d"/>
-		<Metadata name="CommonModule.мк_СобытияДокументов.Module" id="be0cea91-99fc-4cd1-b272-0273b2165bbd.0" configVersion="f3739f575a5d812a245ad16e6adf81257be29e9f"/>
+		<Metadata name="CommonModule.мк_СобытияДокументов.Module" id="be0cea91-99fc-4cd1-b272-0273b2165bbd.0" configVersion="ac8d932299c9d73e9ce3267399e6b8bfae2e295b"/>
 		<Metadata name="CommonModule.мк_СобытияСправочников" id="ce7844eb-f3ff-4199-9a0d-dfc06a8638f4" configVersion="f9f850ac0b69bdfc6c63d2929a8818188b2549a3"/>
-		<Metadata name="CommonModule.мк_СобытияСправочников.Module" id="ce7844eb-f3ff-4199-9a0d-dfc06a8638f4.0" configVersion="ed73d6b8b4f42cb9b70483308c94b5ed766aa855"/>
+		<Metadata name="CommonModule.мк_СобытияСправочников.Module" id="ce7844eb-f3ff-4199-9a0d-dfc06a8638f4.0" configVersion="3976429c9e18d3b39a2fa06f19bbe9e742a7f0da"/>
 		<Metadata name="CommonModule.мк_СобытияФорм" id="a95f2fbf-f1db-4d98-bec0-e15f8d43108e" configVersion="1daf5131e06ad56a1266874d6303a1bc82ab0b4e"/>
-		<Metadata name="CommonModule.мк_СобытияФорм.Module" id="a95f2fbf-f1db-4d98-bec0-e15f8d43108e.0" configVersion="394598102445208dea07c685000a77cbae6dcd20"/>
+		<Metadata name="CommonModule.мк_СобытияФорм.Module" id="a95f2fbf-f1db-4d98-bec0-e15f8d43108e.0" configVersion="791678e334e026fd1c473ba4103bd689b726d7cb"/>
 		<Metadata name="CommonModule.мк_Справочник_Номенклатура" id="662c5bb8-0834-4e51-8b12-18bbf9a85e4b" configVersion="8032af47d08b01ceaff655a32a87744f6e950483"/>
-		<Metadata name="CommonModule.мк_Справочник_Номенклатура.Module" id="662c5bb8-0834-4e51-8b12-18bbf9a85e4b.0" configVersion="6547c13c93cef019255847474d2bbd2d5d10fc83"/>
+		<Metadata name="CommonModule.мк_Справочник_Номенклатура.Module" id="662c5bb8-0834-4e51-8b12-18bbf9a85e4b.0" configVersion="c9004b84ae8618602e378e0691d003bc2ba60c59"/>
 		<Metadata name="CommonModule.мк_Форма_Справочник_Номенклатура_ФормаЭлемента" id="eb0832ad-8e72-4968-bbb3-e9b59499997e" configVersion="3c0a326700f8edf09d6e465ef3feebc7cb521061"/>
-		<Metadata name="CommonModule.мк_Форма_Справочник_Номенклатура_ФормаЭлемента.Module" id="eb0832ad-8e72-4968-bbb3-e9b59499997e.0" configVersion="f731d438f29ebb6c07333c2fde53006359d3ed48"/>
+		<Metadata name="CommonModule.мк_Форма_Справочник_Номенклатура_ФормаЭлемента.Module" id="eb0832ad-8e72-4968-bbb3-e9b59499997e.0" configVersion="3ff2f07801dd7f69a6358c496570e0a1da14f9b4"/>
 		<Metadata name="Configuration.МодификацияКонфигурации" id="ea8f2f30-06fc-4c24-98ac-98fbd0d677ed" configVersion="e4c4c93219fcc6b1355b0d9c60bf8a8ab0b62c50"/>
 		<Metadata name="EventSubscription.мк_ДокументОбработкаЗаполнения" id="84955b59-0671-4202-bf7a-8aa87c2c9e37" configVersion="4dcb1251b5dba40b881e882082e3ed1586780ce9"/>
 		<Metadata name="EventSubscription.мк_ДокументОбработкаПолученияПредставления" id="cf838574-bb9f-49b7-b250-10b5002350d6" configVersion="f6008b193db87f5865ff7934da53f5e14869d2eb"/>
