@@ -2,7 +2,7 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
 		<Metadata name="CommonModule.МодификацияКонфигурацииПереопределяемый" id="9c14bf82-2f45-44b9-9292-066654112b4a" configVersion="79bac29d00d6bc99a052cd4fc5b13b13780d8add"/>
-		<Metadata name="CommonModule.МодификацияКонфигурацииПереопределяемый.Module" id="9c14bf82-2f45-44b9-9292-066654112b4a.0" configVersion="60e69e4db4bbdd462e8b12db527405b77fad68a3"/>
+		<Metadata name="CommonModule.МодификацияКонфигурацииПереопределяемый.Module" id="9c14bf82-2f45-44b9-9292-066654112b4a.0" configVersion="4123ced9678d5047872d2b015985ccb0d4e7b08d"/>
 		<Metadata name="CommonModule.мк_ОбщегоНазначения" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9" configVersion="a6c4d921d47a6ce34ebeca9d0f7bd63bdab26812"/>
 		<Metadata name="CommonModule.мк_ОбщегоНазначения.Module" id="1990c6a8-e935-4432-ae8e-2e34e3d679a9.0" configVersion="8939259874e52c53a17636dce4c1c8ab6d92b835"/>
 		<Metadata name="CommonModule.мк_СобытияДокументов" id="be0cea91-99fc-4cd1-b272-0273b2165bbd" configVersion="e4a7268f2bce49fc2bd36ecea988a433d910e67d"/>
