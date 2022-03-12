@@ -57,7 +57,12 @@
 			<Version>1.0.0.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
-			<DetailedInformation/>
+			<DetailedInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>https://github.com/Bazil1c/1c-configuration-modification</v8:content>
+				</v8:item>
+			</DetailedInformation>
 			<Copyright/>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
@@ -72,7 +77,8 @@
 			<CommonModule>мк_СобытияСправочников</CommonModule>
 			<CommonModule>мк_СобытияФорм</CommonModule>
 			<CommonModule>мк_Справочник_Номенклатура</CommonModule>
-			<CommonModule>мк_Форма_Справочник_Номенклатура_ФормаЭлемента</CommonModule>
+			<CommonModule>мк_Справочник_Номенклатура_Форма_ФормаЭлемента</CommonModule>
+			<CommonModule>МодификацияКонфигурацииПереопределяемый</CommonModule>
 			<EventSubscription>мк_ДокументОбработкаЗаполнения</EventSubscription>
 			<EventSubscription>мк_ДокументОбработкаПолученияПредставления</EventSubscription>
 			<EventSubscription>мк_ДокументОбработкаПолученияФормы</EventSubscription>

@@ -35,6 +35,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.мк_СобытияСправочников</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.мк_ОбщегоНазначения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.мк_СобытияДокументов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.мк_Справочник_Номенклатура</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.мк_Справочник_Номенклатура_Форма_ФормаЭлемента</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.мк_БазовыеПрава</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
