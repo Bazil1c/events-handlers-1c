@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.мк_БазовыеПрава</xr:Item>
 			</DefaultRoles>
 			<Vendor>Ипатов Николай</Vendor>
-			<Version>1.0.0.1</Version>
+			<Version>1.0.1.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation>
@@ -73,11 +73,16 @@
 			<Subsystem>МодификацииКонфигурации</Subsystem>
 			<Role>мк_БазовыеПрава</Role>
 			<CommonModule>мк_ОбщегоНазначения</CommonModule>
+			<CommonModule>мк_ОбщегоНазначенияВызовСервера</CommonModule>
+			<CommonModule>мк_ОбщегоНазначенияКлиент</CommonModule>
+			<CommonModule>мк_ОбщегоНазначенияПовтИсп</CommonModule>
 			<CommonModule>мк_СобытияДокументов</CommonModule>
 			<CommonModule>мк_СобытияСправочников</CommonModule>
 			<CommonModule>мк_СобытияФорм</CommonModule>
+			<CommonModule>мк_СобытияФормКлиент</CommonModule>
 			<CommonModule>мк_Справочник_Номенклатура</CommonModule>
 			<CommonModule>мк_Справочник_Номенклатура_Форма_ФормаЭлемента</CommonModule>
+			<CommonModule>мк_Справочник_Номенклатура_Форма_ФормаЭлементаКлиент</CommonModule>
 			<CommonModule>МодификацияКонфигурацииПереопределяемый</CommonModule>
 			<EventSubscription>мк_ДокументОбработкаЗаполнения</EventSubscription>
 			<EventSubscription>мк_ДокументОбработкаПолученияПредставления</EventSubscription>
